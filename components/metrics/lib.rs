@@ -65,7 +65,7 @@ fn set_metric(
     }
 }
 
-/// A data structure to track web metrics dfined in various specifications:
+/// A data structure to track web metrics defined in various specifications:
 ///
 ///  - <https://w3c.github.io/paint-timing/>
 ///  - <https://github.com/WICG/time-to-interactive> / <https://github.com/GoogleChrome/lighthouse/issues/27>
